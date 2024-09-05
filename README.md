@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neslinur
-- 👀 I’m interested in game development and web design.
+- 👀 I’m interested in software engineering, game development, web design, etc.
 - 🌱 I’m currently learning how to code!
 - 📫 How to reach me: neslinurkayatx@gmail.com
 - 😄 Pronouns: She/Her
